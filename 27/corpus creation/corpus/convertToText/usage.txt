@@ -1,0 +1,5 @@
+Open terminal.
+Goto "run.sh" location.
+Now run the command as follows:
+bash run.sh file path/url without quotes.
+Get the result in output.txt
